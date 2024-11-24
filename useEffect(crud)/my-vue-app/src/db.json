@@ -1,0 +1,11 @@
+{
+  "todo": [
+    { "id": 1, "title": "Learn Html", "status": true },
+    { "id": 1, "title": "Learn Html", "status": true },
+    { "id": 2, "title": "Learn css", "status": true },
+    { "id": 4, "title": "Learn js", "status": true },
+    { "id": 5, "title": "Learn react", "status": true },
+    { "id": 6, "title": "Learn ts", "status": false },
+    { "id": 7, "title": "Learn tailwind", "status": true }
+  ]
+}
